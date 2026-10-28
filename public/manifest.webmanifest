@@ -1,0 +1,17 @@
+{
+  "name": "QR Code Studio",
+  "short_name": "QR Studio",
+  "description": "Créez, stylisez et vérifiez vos QR codes localement.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f2f0e9",
+  "theme_color": "#171714",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
